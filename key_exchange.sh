@@ -8,7 +8,6 @@ hostnamectl set-hostname RKE-CONS0
 echo "please write bastion ip"
 read my_ip
 
-
 controlArr=()
 i=0
 answer_con=n
